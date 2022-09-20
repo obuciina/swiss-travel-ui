@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started Swiss Travel UI APP
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -28,6 +28,11 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## Run with docker
+```shell
+docker run -p 3000:3000 obucina/swiss-travel-ui
+```
 
 ### `npm run eject`
 
